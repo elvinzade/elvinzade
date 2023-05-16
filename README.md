@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Virtual reality application for rehabilitation.**
 
-- 🌱 I’m currently learning **Spark, Hadoop,**
+- 🌱 I’m currently learning **Spark, Hadoop, Sagemaker**
 
 - 📫 How to reach me **elvin.ismayilzada99@gmail.com**
 
