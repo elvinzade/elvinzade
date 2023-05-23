@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Virtual reality application for rehabilitation.**
+- 🔭 I’m currently working on **Virtual reality application for rehabilitation exercises.**
 
 - 🌱 I’m currently learning **Spark, Hadoop, Sagemaker**
 
