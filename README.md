@@ -5,7 +5,6 @@
 ![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinzade&layout=compact&hide_border=true&theme=onedark)
 
 
-
 - 🔭 I’m currently working on **Virtual reality application for rehabilitation exercises.**
 
 - 🌱 I’m currently learning **Spark, Hadoop, Sagemaker**
